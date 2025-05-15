@@ -50,7 +50,6 @@
 #include <iostream>
 #include <array>               // #include <컨테이너 이름>
 
-
 template<typename T1>
 T1 MaxFunc(T1 a, T1 b)
 {
