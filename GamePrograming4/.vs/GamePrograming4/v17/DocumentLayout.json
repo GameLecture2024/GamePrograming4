@@ -3,28 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD362CDF-D0C6-42B8-8EC7-82A4E3DC800E}|..\\Ch2_ConsoleGame_GenericeExample\\Ch2_ConsoleGame_GenericeExample.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch2_ConsoleGame_GenericeExample\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7095082-AB2E-4938-AD2B-25401F48C400}|GamePrograming4.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\Sample.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7095082-AB2E-4938-AD2B-25401F48C400}|GamePrograming4.vcxproj|solutionrelative:Sample.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7095082-AB2E-4938-AD2B-25401F48C400}|GamePrograming4.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7095082-AB2E-4938-AD2B-25401F48C400}|GamePrograming4.vcxproj|solutionrelative:Template.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7095082-AB2E-4938-AD2B-25401F48C400}|GamePrograming4.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7095082-AB2E-4938-AD2B-25401F48C400}|GamePrograming4.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD362CDF-D0C6-42B8-8EC7-82A4E3DC800E}|..\\Ch2_ConsoleGame_GenericeExample\\Ch2_ConsoleGame_GenericeExample.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch2_ConsoleGame_GenericeExample\\Pokeball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66E0C5B0-1961-4B72-90E9-14864DDD0A22}|..\\UtilityProject\\UtilityProject.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\UtilityProject\\ConsoleUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66E0C5B0-1961-4B72-90E9-14864DDD0A22}|..\\UtilityProject\\UtilityProject.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\UtilityProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D1019368-5962-4ED1-BCF3-963DCE268495}|..\\Ch3_vector\\Ch3_vector.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch3_vector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,93 +37,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sample.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\Sample.h",
-              "RelativeDocumentMoniker": "Sample.h",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\Sample.h",
-              "RelativeToolTip": "Sample.h",
-              "ViewState": "AQIAAF0AAAAAAAAAAADwv2QAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-15T08:45:54.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Template.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\Template.h",
-              "RelativeDocumentMoniker": "Template.h",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\Template.h",
-              "RelativeToolTip": "Template.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-15T08:45:52.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T08:45:43.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\UtilityProject\\main.cpp",
-              "RelativeDocumentMoniker": "..\\UtilityProject\\main.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\UtilityProject\\main.cpp",
-              "RelativeToolTip": "..\\UtilityProject\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T08:40:51.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch2_ConsoleGame_GenericeExample\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch2_ConsoleGame_GenericeExample\\main.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch2_ConsoleGame_GenericeExample\\main.cpp",
-              "RelativeToolTip": "..\\Ch2_ConsoleGame_GenericeExample\\main.cpp",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJsAAAASAAAA",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch3_vector\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch3_vector\\main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch3_vector\\main.cpp",
+              "RelativeToolTip": "..\\Ch3_vector\\main.cpp",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAUwLYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T08:40:13.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConsoleUtility.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\UtilityProject\\ConsoleUtility.h",
-              "RelativeDocumentMoniker": "..\\UtilityProject\\ConsoleUtility.h",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\UtilityProject\\ConsoleUtility.h",
-              "RelativeToolTip": "..\\UtilityProject\\ConsoleUtility.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-15T08:38:13.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pokeball.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch2_ConsoleGame_GenericeExample\\Pokeball.h",
-              "RelativeDocumentMoniker": "..\\Ch2_ConsoleGame_GenericeExample\\Pokeball.h",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch2_ConsoleGame_GenericeExample\\Pokeball.h",
-              "RelativeToolTip": "..\\Ch2_ConsoleGame_GenericeExample\\Pokeball.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-15T08:36:51.671Z",
+              "WhenOpened": "2025-05-16T07:02:44.955Z",
               "EditorCaption": ""
             }
           ]
