@@ -97,6 +97,8 @@ int main()
 
 	std::array<PokeMon*, 36> pokeballs;
 
+	// std::vector<PokeMon> pokeballs;
+
 	PokeMon defaultMonster(0, "");
 
 	pokeballs.fill(&defaultMonster);
