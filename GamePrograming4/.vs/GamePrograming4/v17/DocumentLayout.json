@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\GamePrograming4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C409B73-6E57-4207-8E4A-208DCFB28217}|..\\Ch5_STL\\Ch5_STL.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch5_STL\\algo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C409B73-6E57-4207-8E4A-208DCFB28217}|..\\Ch5_STL\\Ch5_STL.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch5_STL\\MonsterDatabase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C409B73-6E57-4207-8E4A-208DCFB28217}|..\\Ch5_STL\\Ch5_STL.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch5_STL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C409B73-6E57-4207-8E4A-208DCFB28217}|..\\Ch5_STL\\Ch5_STL.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\ALGORITHM||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B64391D-3ADF-4F08-9683-8624EB9AF22C}|..\\Ch4_MyVector\\Ch4_MyVector.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch4_MyVector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -50,6 +62,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MonsterDatabase.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch5_STL\\MonsterDatabase.h",
+              "RelativeDocumentMoniker": "..\\Ch5_STL\\MonsterDatabase.h",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch5_STL\\MonsterDatabase.h",
+              "RelativeToolTip": "..\\Ch5_STL\\MonsterDatabase.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T08:42:51.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "algorithm",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\algorithm",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\algorithm",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\algorithm",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\algorithm",
+              "ViewState": "AQIAABABAAAAAAAAAADgvx0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-20T08:32:26.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "algo.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch5_STL\\algo.h",
+              "RelativeDocumentMoniker": "..\\Ch5_STL\\algo.h",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch5_STL\\algo.h",
+              "RelativeToolTip": "..\\Ch5_STL\\algo.h",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T08:04:54.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch5_STL\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch5_STL\\main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch5_STL\\main.cpp",
+              "RelativeToolTip": "..\\Ch5_STL\\main.cpp",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAKsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T07:02:02.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RandomEncount.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch4_MyVector\\RandomEncount.h",
               "RelativeDocumentMoniker": "..\\Ch4_MyVector\\RandomEncount.h",
@@ -57,12 +121,11 @@
               "RelativeToolTip": "..\\Ch4_MyVector\\RandomEncount.h",
               "ViewState": "AQIAABIAAAAAAAAAAAAewEcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-19T08:15:18.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T08:15:18.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CustomVector.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch4_MyVector\\CustomVector.h",
               "RelativeDocumentMoniker": "..\\Ch4_MyVector\\CustomVector.h",
@@ -70,12 +133,11 @@
               "RelativeToolTip": "..\\Ch4_MyVector\\CustomVector.h",
               "ViewState": "AQIAAIcAAAAAAAAAAAAAAIcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-19T07:04:33.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T07:04:33.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch4_MyVector\\main.cpp",
               "RelativeDocumentMoniker": "..\\Ch4_MyVector\\main.cpp",
@@ -88,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch2_ConsoleGame_GenericeExample\\main.cpp",
               "RelativeDocumentMoniker": "..\\Ch2_ConsoleGame_GenericeExample\\main.cpp",
@@ -96,12 +158,11 @@
               "RelativeToolTip": "..\\Ch2_ConsoleGame_GenericeExample\\main.cpp",
               "ViewState": "AQIAAFIAAAAAAAAAAAAswGYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-16T08:45:12.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T08:45:12.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch3_vector\\main.cpp",
               "RelativeDocumentMoniker": "..\\Ch3_vector\\main.cpp",
@@ -109,8 +170,7 @@
               "RelativeToolTip": "..\\Ch3_vector\\main.cpp",
               "ViewState": "AQIAACUAAAAAAAAAAAAUwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-16T07:02:44.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T07:02:44.955Z"
             }
           ]
         },
