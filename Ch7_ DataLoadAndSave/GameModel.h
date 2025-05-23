@@ -24,14 +24,7 @@
 *  vector.emplace_back();
 */
 
-struct PokeMon
-{
-	std::string name;
 
-	LevelExp levelExp;
-
-	// name, level, maxExp;
-};
 
 
 
