@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch8_enum Vector", "..\Ch8_e
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch9_Sequence Container", "..\Ch9_Sequence Container\Ch9_Sequence Container.vcxproj", "{E9ACB731-77E5-40AB-A29F-15FF00754A87}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch10_ Deque과 함수 포인터 활용", "..\Ch10_ Deque과 함수 포인터 활용\Ch10_ Deque과 함수 포인터 활용.vcxproj", "{500164EE-FB14-4A17-826B-CD05769C7C8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{E9ACB731-77E5-40AB-A29F-15FF00754A87}.Release|x64.Build.0 = Release|x64
 		{E9ACB731-77E5-40AB-A29F-15FF00754A87}.Release|x86.ActiveCfg = Release|Win32
 		{E9ACB731-77E5-40AB-A29F-15FF00754A87}.Release|x86.Build.0 = Release|Win32
+		{500164EE-FB14-4A17-826B-CD05769C7C8B}.Debug|x64.ActiveCfg = Debug|x64
+		{500164EE-FB14-4A17-826B-CD05769C7C8B}.Debug|x64.Build.0 = Debug|x64
+		{500164EE-FB14-4A17-826B-CD05769C7C8B}.Debug|x86.ActiveCfg = Debug|Win32
+		{500164EE-FB14-4A17-826B-CD05769C7C8B}.Debug|x86.Build.0 = Debug|Win32
+		{500164EE-FB14-4A17-826B-CD05769C7C8B}.Release|x64.ActiveCfg = Release|x64
+		{500164EE-FB14-4A17-826B-CD05769C7C8B}.Release|x64.Build.0 = Release|x64
+		{500164EE-FB14-4A17-826B-CD05769C7C8B}.Release|x86.ActiveCfg = Release|Win32
+		{500164EE-FB14-4A17-826B-CD05769C7C8B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
