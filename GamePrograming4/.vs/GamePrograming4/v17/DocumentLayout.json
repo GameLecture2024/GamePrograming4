@@ -6,6 +6,9 @@
       "AbsoluteMoniker": "D:0:0:{0AEDC193-DA14-47D7-8379-E1EB1C028B77}|..\\Ch13_ShopNPC\\Ch13_ShopNPC.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch13_ShopNPC\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EBCAC273-5452-46C2-98FA-3614DD104968}|..\\Ch15_Adaptor_Container\\Ch15_Adaptor_Container.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch15_Adaptor_Container\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{908C7124-BABC-49EE-90F9-9D1ACBEA27C9}|..\\Ch14_Hash\\Ch14_Hash.vcxproj|C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch14_Hash\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -22,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +49,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch15_Adaptor_Container\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch15_Adaptor_Container\\main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch15_Adaptor_Container\\main.cpp",
+              "RelativeToolTip": "..\\Ch15_Adaptor_Container\\main.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAcwLIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-03T07:02:30.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch13_ShopNPC\\main.cpp",
               "RelativeDocumentMoniker": "..\\Ch13_ShopNPC\\main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch13_ShopNPC\\main.cpp",
               "RelativeToolTip": "..\\Ch13_ShopNPC\\main.cpp",
-              "ViewState": "AQIAAO0AAAAAAAAAAAAWwAIBAAAiAAAA",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAuwJMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-02T07:39:02.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConsoleUtill.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch14_Hash\\ConsoleUtill.h",
               "RelativeDocumentMoniker": "..\\Ch14_Hash\\ConsoleUtill.h",
@@ -67,12 +83,11 @@
               "RelativeToolTip": "..\\Ch14_Hash\\ConsoleUtill.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-02T07:31:53.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T07:31:53.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ConsoleUtility.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\UtilityProject\\ConsoleUtility.h",
               "RelativeDocumentMoniker": "..\\UtilityProject\\ConsoleUtility.h",
@@ -80,18 +95,17 @@
               "RelativeToolTip": "..\\UtilityProject\\ConsoleUtility.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-02T07:31:35.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T07:31:35.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch14_Hash\\main.cpp",
               "RelativeDocumentMoniker": "..\\Ch14_Hash\\main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Downloads\\GamePrograming4\\Ch14_Hash\\main.cpp",
               "RelativeToolTip": "..\\Ch14_Hash\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwv3MAAAAmAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAwFQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-02T07:01:55.011Z",
               "EditorCaption": ""

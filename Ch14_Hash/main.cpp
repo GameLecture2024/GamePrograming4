@@ -85,7 +85,7 @@ void MapTimeTest()
 
 void UMapTimeTest()
 {
-	std::map<std::string, int> umap;
+	std::unordered_map<std::string, int> umap;
 
 	umap.insert({ "A", 1 });
 	umap.insert({ "B", 1 });
